@@ -8,12 +8,6 @@ import java.util.Set;
  *
  * @author Wenye Yi
  * @version 1.0
- * @userid wyi31
- * @GTID 903448948
- *
- * Collaborators: I worked on this homework alone.
- *
- * Resources: I used only course materials.
  */
 public class LinearProbingHashMap<K, V> {
 
