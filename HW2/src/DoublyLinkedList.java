@@ -4,9 +4,6 @@ import java.util.NoSuchElementException;
  * Your implementation of a non-circular DoublyLinkedList with a tail pointer.
  *
  * @author Wenye Yi
- * @version 1.0
- * @userid wyi31
- * @GTID 903448948
  *
  * Collaborators: I worked on the homework assignment alone.
  *
