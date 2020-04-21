@@ -2,9 +2,6 @@
  * Your implementation of an ArrayList.
  *
  * @author Wenye Yi
- * @version 1.0
- * @userid wyi31
- * @GTID 903448948
  */
 public class ArrayList<T> {
 
