@@ -6,11 +6,6 @@ import java.util.NoSuchElementException;
  *
  * @author Wenye Yi
  * @version 1.0
- * @userid wyi31
- * @GTID 903448948
- * Collaborators: I worked on this assignment alone.
- *
- * Resources: I only used course materials.
  */
 public class MinHeap<T extends Comparable<? super T>> {
 
